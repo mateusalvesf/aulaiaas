@@ -9,3 +9,10 @@ apt install git
 git clone https://github.com/eversonpereira/aulaiaas.git
 
 cd aulaiaas
+
+# Criar o arquivo .env e colocar o conteúdo WEATHERAPI_API_KEY=SuaChaveAqui
+
+npm install
+npm start
+
+# Liberar porta no firewall da Azure
