@@ -4,7 +4,7 @@
     "description": "App previsao tempo teste nuvem",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node index3.js"
     },
     "keywords": [
       "weather",
